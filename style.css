@@ -1,0 +1,161 @@
+* {
+  margin: 0px;
+  padding: 0px;
+ font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  width: 85%;
+  padding: auto;
+}
+.header {
+  padding: 20px 0;
+}
+.logotip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo_item {
+  padding: 10px;
+}
+.logo_text {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 70px;
+}
+.main {
+  background-image: url("не_кампудахтер.png");
+  height: 700px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+ 
+}
+.main_content{
+  margin-top: 267px;
+  margin-right: 38px;
+}
+.main_title {
+  text-transform: uppercase;
+  color: white;
+  font-size: 110px;
+  border-bottom: 2px solid #00a5fd;
+  text-align: center;
+}
+.textp {
+  padding: 14px;
+}
+.go {
+  color: white;
+  text-decoration: none;
+  border: 1px solid #00a5fd;
+   margin: auto;
+  border-radius: 3px;
+  width: 153px;
+  margin-left: 219px;
+  padding: 10px 3px;
+ text-align: center;
+}
+.ssulka {
+  text-decoration: none;
+}
+.text {
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.texth2 {
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+.willi {
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  width: 300px;
+}
+.div1 {
+  position: relative;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  top: 0px;
+  right: 0px;
+}
+.img2 {
+  width: 300px;
+  height: 409px;
+}
+.img3 {
+  width: 300px;
+}
+.williamson {
+  display: flex;
+  justify-content: center;
+}
+.img4 {
+  width: 300px;
+}
+.img5 {
+  width: 300px;
+  height: 452px;
+}
+.img6 {
+  width: 300px;
+  height: 452px;
+}
+a {
+  padding: 50px;
+}
+img {
+  padding: 50px;
+}
+.rain {
+  background-image: url("sdf.png");
+  height: 500px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  padding: 50px;
+}
+.rain_title {
+  text-transform: uppercase;
+  color: white;
+  font-size: 70px;
+  border-bottom: 2px solid #00a5fd;
+  display: flex;
+
+  justify-content: center;
+}
+.textr {
+  padding: 50px;
+}
+.aaa {
+  width: 500px;
+  height: 50px;
+  padding: 10px;
+  box-shadow: #00a5fd 0px 1px 4px, rgb(51 51 51) 0px 0px 0px 3px;
+}
+.aaaa {
+  width: 500px;
+  height: 50px;
+  box-shadow: #00a5fd 0px 1px 4px, rgb(51 51 51) 0px 0px 0px 3px;
+  padding: 10px;
+}
+.aaaaф {
+  width: 500px;
+  height: 500px;
+  box-shadow: #00a5fd 0px 1px 4px, rgb(51 51 51) 0px 0px 0px 3px;
+  padding: 10px;
+}
+.imgmain{
+  width: 50px;
+  margin-left:  172px;;
+  margin-bottom: 20px;
+}
